@@ -1,0 +1,27 @@
+_repo: The-Story-of-The-Atlantic-Cable_46105
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46105-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bright, Charles, Sir
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '43614'
+    url: http://www.gutenberg.org/2009/agents/43614
+description: ''
+gutenberg_issued: '2014-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46105'
+  lccn: 03031877
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TK'
+- !lcsh 'Transatlantic cables'
+title: The Story of the Atlantic Cable
+url: http://www.gutenberg.org/ebooks/46105
